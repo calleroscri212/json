@@ -5,10 +5,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt Community",
-        "provider": "webview",
+        "title": "wordpress",
+        "provider": "wordpress",
         "arguments": [
-          "https://emonnari.pl/",
+          "",
           "deals"
         ]
       }
@@ -21,7 +21,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Top Films and series",
+        "title": "wordpress",
         "image": "",
         "provider": "wordpress",
         "arguments": [
