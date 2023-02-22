@@ -6,9 +6,9 @@
     "tabs": [
       {
         "title": "wordpress",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://github.com/",
           "deals"
         ]
       }
@@ -23,9 +23,9 @@
       {
         "title": "wordpress",
         "image": "",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://github.com/",
           "deals"
         ]
       }
