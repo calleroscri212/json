@@ -5,13 +5,22 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "wordpress",
+        "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://github.com/",
+          "https://your-single.com/",
           "deals"
         ]
+      },
+      {
+        "title": "Singles in der N‰he",
+        "provider": "webview",
+        "arguments": [
+          "https://instaquiz.app/",
+          "usa_new"
+        ]
       }
+  
     ],
     "iap": false
   },
@@ -21,11 +30,11 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "wordpress",
+        "title": "Top Films and series",
         "image": "",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
-          "https://github.com/",
+          "",
           "deals"
         ]
       }
